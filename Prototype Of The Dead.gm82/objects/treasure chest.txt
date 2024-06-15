@@ -1,0 +1,7 @@
+sprite=sprite22
+visible=1
+solid=1
+persistent=1
+depth=3
+parent=object4
+mask=
